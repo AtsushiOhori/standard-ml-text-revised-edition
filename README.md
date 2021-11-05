@@ -14,7 +14,7 @@
    第18章のテキストのコード例を含むsmlおよびsmiファイル．
    interactive.shは，第18章のコードを対話型するshellスクリプトファイル．
 
-[プログラミング言語Standard ML入門 改訂版]: https://www.kyoritsu-pub.co.jp/bookdetail/9784320124783
+[プログラミング言語Standard ML入門 改訂版]: https://www.kyoritsu-pub.co.jp/bookdetail/9784320124806
 [共立出版]: https://www.kyoritsu-pub.co.jp/
 [大堀淳のホームページ]: https://atsushiohori.github.io
 [プログラミング言語Standard ML入門のページ]: https://atsushiohori.github.io/ja/texts/compiler
