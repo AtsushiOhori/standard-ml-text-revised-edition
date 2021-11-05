@@ -8,7 +8,7 @@
 
 ## ファイルの説明
 * [`README.md`] 本ファイル．
-* [`examples/chapter01.sh`〜`examples/chapter17.sh`] 
+* [`examples/chapter01.sh]`〜`[examples/chapter17.sh`] 
    第1章から第17章のテキストのコード例をsmlsharpで対話型実行するshellスクリプトファイル
 * [`examples/chapter18/`] 
    第18章のテキストのコード例を含むsmlおよびsmiファイル．
