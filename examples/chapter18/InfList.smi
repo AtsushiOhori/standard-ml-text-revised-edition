@@ -1,0 +1,15 @@
+_require "basis.smi"
+structure InfList = 
+struct
+  datatype 'a inflist
+    = NIL
+    | CONS of 'a * (unit -> 'a inflist);
+  val HD : 'a inflist -> 'a 
+  val TL : 'a inflist -> 'a  inflist
+  val NULL : 'a inflist -> bool
+  val FILTER : ('a -> bool)
+                 -> 'a inflist -> 'a inflist
+  val FROMN : int -> int inflist
+  val NTH : int -> 'a inflist -> 'a 
+  val VIEW : int * int -> 'a inflist -> 'a list
+end

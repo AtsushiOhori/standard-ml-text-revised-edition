@@ -1,0 +1,7 @@
+_require "basis.smi"
+_require "./InfList.smi"
+structure Prime =
+struct
+  val SIFT : int InfList.inflist -> int InfList.inflist
+  val PRIMES : int InfList.inflist
+end
